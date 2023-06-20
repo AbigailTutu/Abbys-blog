@@ -1,0 +1,24 @@
+{
+"aboutSchool":[
+{
+    "title": "A little history about the founder",
+    "description": "The name of the founder of Inspired School is Joyce Kwadzokpoe. She is from Anfoega in the volta region and was born on the 24th of June",
+    "author": "Written by Enam Kaka",
+    "id": "1"
+  },
+    
+  {
+    "title": "Location of the school",
+    "description": "Inspired School is located in Greater Accra, Ghana at Lapaz",
+    "author": "Written by Amadeku Godfred",
+    "id": "2"
+  },
+    
+ {
+    "title": "Courses offered in the School",
+    "description": "We offer all kind of courses you can think of, like Business, IT, Science, Fashion, Media, Nursing, etc...",
+    "author": "Written by Eric Agbo",
+    "id": "3"
+  }
+]
+}
